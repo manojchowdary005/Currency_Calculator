@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0c0f4a2-cde0-42ec-8dbf-9367635b2c39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CurrencyConverter.py" afterDir="false" />
-    </list>
+    <list default="true" id="e0c0f4a2-cde0-42ec-8dbf-9367635b2c39" name="Changes" comment="Basic version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manojchowdary005/Currency-Calculator",
+    "accountId": "b3d9fe7d-cb45-4bd1-a1e7-c9e577e4b43e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -65,11 +64,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753482396624</updated>
-      <workItem from="1753482397676" duration="1033000" />
+      <workItem from="1753482397676" duration="1522000" />
     </task>
+    <task id="LOCAL-00001" summary="Basic version">
+      <option name="closed" value="true" />
+      <created>1753483824307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753483824307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic version" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Projects$CurrencyConverter.coverage" NAME="CurrencyConverter Coverage Results" MODIFIED="1753483533603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
